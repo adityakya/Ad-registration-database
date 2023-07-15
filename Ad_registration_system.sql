@@ -52,3 +52,4 @@ insert into ad_label_mapping values('A2', '1');
 insert into Ad_blocked values('b', 'A2');
 insert into Customer_label_mapping values('b', '2', 15);
 
+select * from ad
